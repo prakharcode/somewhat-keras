@@ -1,2 +1,6 @@
 venv
 keras
+Advanced/Vision/data
+Advanced/Vision/saved_models
+Advanced/Text/data
+Advanced/Text/saved_models
