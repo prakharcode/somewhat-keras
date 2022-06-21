@@ -43,7 +43,7 @@ Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.2.2
 networkx==1.11
-numpy==1.15.0
+numpy==1.22.0
 oauth==1.0.1
 olefile==0.45.1
 parso==0.3.1
