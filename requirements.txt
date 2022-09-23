@@ -52,7 +52,7 @@ pexpect==4.2.1
 pickleshare==0.7.4
 Pillow==5.1.0
 prompt-toolkit==1.0.15
-protobuf==3.6.0
+protobuf==3.18.3
 pycairo==1.16.2
 pycrypto==2.6.1
 pycups==1.9.73
